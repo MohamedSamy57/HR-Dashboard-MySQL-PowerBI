@@ -1,0 +1,39 @@
+﻿Department,Gender,Number of Emp
+Accounting,Male,1711
+Accounting,Female,1531
+Accounting,Non-Conforming,91
+Auditing,Male,28
+Auditing,Female,24
+Business Development,Non-Conforming,49
+Business Development,Female,757
+Business Development,Male,836
+Engineering,Non-Conforming,193
+Engineering,Female,3120
+Engineering,Male,3373
+Human Resources,Female,861
+Human Resources,Non-Conforming,42
+Human Resources,Male,904
+Legal,Non-Conforming,9
+Legal,Male,162
+Legal,Female,140
+Marketing,Non-Conforming,5
+Marketing,Male,256
+Marketing,Female,233
+Product Management,Non-Conforming,15
+Product Management,Female,277
+Product Management,Male,349
+Research and Development,Male,531
+Research and Development,Female,513
+Research and Development,Non-Conforming,40
+Sales,Male,946
+Sales,Non-Conforming,47
+Sales,Female,839
+Services,Non-Conforming,33
+Services,Female,800
+Services,Male,853
+Support,Female,437
+Support,Non-Conforming,36
+Support,Male,481
+Training,Male,858
+Training,Non-Conforming,45
+Training,Female,789
